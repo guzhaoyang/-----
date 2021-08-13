@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "递归", "递归\递归.csproj", "{6F5CCAFE-F51B-421B-92BD-8294862F187C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "分治", "分治\分治.csproj", "{CA1B271B-5EE1-473C-BDF6-B8EDF08415C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "动态规划", "动态规划\动态规划.csproj", "{5CF0BA3C-65E2-45E6-A761-DC0AC25B1727}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "贪心算法", "贪心算法\贪心算法.csproj", "{BF349A6D-2944-402E-A843-6FA315CE1614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "回溯法", "回溯法\回溯法.csproj", "{624C1ADF-E438-430A-88C9-D220BD2B6AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "分支限界法", "分支限界法\分支限界法.csproj", "{A2C592E8-4920-4ABF-9594-93FA00F087FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5CCAFE-F51B-421B-92BD-8294862F187C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5CCAFE-F51B-421B-92BD-8294862F187C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5CCAFE-F51B-421B-92BD-8294862F187C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5CCAFE-F51B-421B-92BD-8294862F187C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1B271B-5EE1-473C-BDF6-B8EDF08415C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1B271B-5EE1-473C-BDF6-B8EDF08415C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1B271B-5EE1-473C-BDF6-B8EDF08415C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1B271B-5EE1-473C-BDF6-B8EDF08415C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF0BA3C-65E2-45E6-A761-DC0AC25B1727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF0BA3C-65E2-45E6-A761-DC0AC25B1727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF0BA3C-65E2-45E6-A761-DC0AC25B1727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF0BA3C-65E2-45E6-A761-DC0AC25B1727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF349A6D-2944-402E-A843-6FA315CE1614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF349A6D-2944-402E-A843-6FA315CE1614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF349A6D-2944-402E-A843-6FA315CE1614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF349A6D-2944-402E-A843-6FA315CE1614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624C1ADF-E438-430A-88C9-D220BD2B6AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624C1ADF-E438-430A-88C9-D220BD2B6AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624C1ADF-E438-430A-88C9-D220BD2B6AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624C1ADF-E438-430A-88C9-D220BD2B6AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C592E8-4920-4ABF-9594-93FA00F087FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C592E8-4920-4ABF-9594-93FA00F087FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C592E8-4920-4ABF-9594-93FA00F087FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C592E8-4920-4ABF-9594-93FA00F087FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE406058-A801-4A63-82D5-CCB80EE55092}
+	EndGlobalSection
+EndGlobal
